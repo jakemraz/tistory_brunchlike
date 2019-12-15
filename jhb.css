@@ -69,7 +69,7 @@ address,caption,cite,code,dfn,em,var {font-style:normal;font-weight:normal}
 .btn_close{display:none}
 .area_menu .ico_cate{width:10px;height:6px;margin:-2px 0 0 53px;background-position:0 -50px;vertical-align:middle}
 .area_menu .list_cate{display:none;position:absolute;top:37px;left:0;width:158px;padding:18px 0 10px;border:1px solid #3db39e;border-radius:0 0 3px 3px;background-color:#fff}
-.area_menu .on .list_cate{display:block}
+.area_menu .on .list_cate{display:block;overflow:auto;height:530px}
 .area_menu .on .ico_cate { background-position: 0 -658px; }
 .area_menu .link_cate{display:block;padding-left:17px;margin-bottom:12px;font-size:12px;color:#333}
 
